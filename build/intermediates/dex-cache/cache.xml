@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/justinwei/Documents/OpenCV-Projects/PurifiedWaterN-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/justinwei/Documents/OpenCV-Projects/PurifiedWaterN-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3eb949510d77c56a72a57447845ed24ddcad1b07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/justinwei/Documents/OpenCV-Projects/PurifiedWaterN-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd6fc1166248360ec417e319070f19e00a7b470b">
+        <dex dex="/Users/justinwei/Documents/OpenCV-Projects/PurifiedWaterN-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4fad172a085743a8bb9ece02e637bdff23bc2b4d/classes.dex" />
+    </item>
+
+</items>
